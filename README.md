@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahsum23
-- 👀 I’m interested in algorithms, data structures, data science, data visualisation,  statistics, machine learning 
-- 🌱 I’m currently learning algorithms, data structures, statistics, python, c++
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in c++, algorithms, data structures, gamedev, embedded
+- 🌱 I’m currently learning c++, algorithms
+- 💞️ I’m looking to collaborate on c++ projects
 - 📫 How to reach me: mahssaet23@gmail.com
 
 <!---
