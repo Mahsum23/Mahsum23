@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahsum23
-- 👀 I’m interested in c++, embedded, algorithms, data structures
+- 👀 I’m interested in c++, gamedev, embedded, algorithms, data structures
 - 🌱 I’m currently learning c++, algorithms, data structures
 - 💞️ I’m looking to collaborate on c++ projects
 - 📫 How to reach me: mahssaet23@gmail.com
